@@ -12,6 +12,7 @@
 		E5C5B8B32100D3E30000E1C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5C5B8B12100D3E30000E1C4 /* Main.storyboard */; };
 		E5C5B8B52100D3E70000E1C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5C5B8B42100D3E70000E1C4 /* Assets.xcassets */; };
 		E5C5B8B82100D3E70000E1C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5C5B8B62100D3E70000E1C4 /* LaunchScreen.storyboard */; };
+		E5C5B8C02100D4220000E1C4 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5C5B8BF2100D4220000E1C4 /* ColorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E5C5B8B42100D3E70000E1C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5C5B8B72100D3E70000E1C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E5C5B8B92100D3E70000E1C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5C5B8BF2100D4220000E1C4 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E5C5B8AD2100D3E30000E1C4 /* AppDelegate.swift */,
 				E5C5B8AF2100D3E30000E1C4 /* ViewController.swift */,
 				E5C5B8B12100D3E30000E1C4 /* Main.storyboard */,
+				E5C5B8BF2100D4220000E1C4 /* ColorViewController.swift */,
 				E5C5B8B42100D3E70000E1C4 /* Assets.xcassets */,
 				E5C5B8B62100D3E70000E1C4 /* LaunchScreen.storyboard */,
 				E5C5B8B92100D3E70000E1C4 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5C5B8B02100D3E30000E1C4 /* ViewController.swift in Sources */,
+				E5C5B8C02100D4220000E1C4 /* ColorViewController.swift in Sources */,
 				E5C5B8AE2100D3E30000E1C4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
